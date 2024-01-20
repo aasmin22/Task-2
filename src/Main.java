@@ -1,7 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello CS245");
+        System.out.println("Hello Aasmin");
+
         // TODO Updates for Task 2
         // FIXME
         //  Change CS245 to your name -
@@ -11,3 +12,5 @@ public class Main {
         //  Remove TODO and FIXME comments.
     }
 }
+
+
